@@ -1,6 +1,7 @@
 ###################
-WEB
+Readme
 ###################
-Ini adalah hasil percobaan penggunaan CodeIgniter 3 saya
-Url 
-" http://localhost/codeigniter/index.php/web/view "
+Ini adalah hasil pengerjaan di CI
+Tugas yang diselesaikan
+1. Tugas Awal
+2. Tugas BackEnd
